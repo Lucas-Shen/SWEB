@@ -6,4 +6,4 @@
 ```shell
 wget -N --no-check-certificate  https://raw.githubusercontent.com/FunctionClub/SWEB/master/install.sh && bash install
 ```
-
+wget -N --no-check-certificate  https://raw.githubusercontent.com/Lucas-Shen/SWEB/master/install.sh && bash install.sh
